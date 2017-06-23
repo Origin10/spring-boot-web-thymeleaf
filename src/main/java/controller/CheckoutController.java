@@ -25,8 +25,8 @@ import service.ShoppingCartService;
 import service.MemPaymentService;
 import service.MemService;
 import service.MemShippingService;
-import utility.MailConstructor;
-import utility.Constants;
+import util.MailConstructor;
+import util.Constants;
 
 @Controller
 public class CheckoutController {
